@@ -1,8 +1,8 @@
 # hi there, I'm Utkarsh!👋
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Utkarshxf&show_icons=true&theme=radical&bg_color=2f2736&text_color=d446df"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=Utkarshxf&show_icons=true&theme=radical&bg_color=2f2736&text_color=ffffff&title_color=df4ee1"/>
 
-<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshxf&layout=compact&bg_color=2f2736&text_color=d446df&title_color=e75388"/>
+<img align="left" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=utkarshxf&layout=compact&bg_color=2f2736&text_color=ffffff&title_color=df4ee1"/>
 
 <img align="left" src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white"/>
 
